@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Amauri
 
+Software Developer | Application Security | Offensive Security| Secure SDLC
 <!--
 **extern-c/extern-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🧩 Open Source Contributions
+#### rdoc
+- PR [#1488](https://github.com/ruby/rdoc/pull/1488) - 🐛 Fix method source code not created if a method's description is skipped
+- PR [#1539](https://github.com/ruby/rdoc/pull/1539) - 🐛 Fix cross-reference resolution for constants
+
+👉 Full contribution list: https://github.com/ruby/rdoc/pulls?q=is%3Apr+author%3Aextern-c
